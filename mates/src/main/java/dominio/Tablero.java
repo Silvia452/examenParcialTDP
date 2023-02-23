@@ -28,15 +28,18 @@ public class Tablero {
                 }
                 System.out.println();
             }
-            System.out.println();
         }
-
-
     }
 
 
-
     public void generarEstadoActualPorMontecarlo() {
+        Random rand = new Random();
+        for (int i = 0; i < DIMENSION; i++) {
+            for (int j = 0; j < DIMENSION; j++) {
+                estadoSiguiente[i][j] = rand.nextInt(2);
+            }
+        }
+        leerEstadoActual();
 
     }
 
