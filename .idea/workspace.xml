@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e4b818de-9ff1-495c-9bef-a77ae5e82e4b" name="Changes" comment="Practica 2 en proceso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mates/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/mates/src/main/java/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mates/src/main/java/dominio/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/mates/src/main/java/dominio/Tablero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677174666407</updated>
-      <workItem from="1677174668110" duration="2220000" />
+      <workItem from="1677174668110" duration="3434000" />
     </task>
     <task id="LOCAL-00001" summary="Practica 1 completado">
       <created>1677175665004</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677176394005</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practica 2 en proceso">
+      <created>1677177199153</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677177199154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
