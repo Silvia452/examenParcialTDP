@@ -22,7 +22,7 @@ public class Matematicas {
             }
         }
 
-        return areaCuadrado * (aciertos/puntosTotales);
+        return areaCuadrado * aciertos/puntosTotales;
 
     }
 }
