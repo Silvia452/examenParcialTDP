@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b818de-9ff1-495c-9bef-a77ae5e82e4b" name="Changes" comment="Practica 1 completado">
-      <change afterPath="$PROJECT_DIR$/mates/src/main/java/dominio/Tablero.java" afterDir="false" />
+    <list default="true" id="e4b818de-9ff1-495c-9bef-a77ae5e82e4b" name="Changes" comment="Practica 2 en proceso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mates/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/mates/src/main/java/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mates/src/main/java/dominio/Tablero.java" beforeDir="false" afterPath="$PROJECT_DIR$/mates/src/main/java/dominio/Tablero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677174666407</updated>
-      <workItem from="1677174668110" duration="1518000" />
+      <workItem from="1677174668110" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="Practica 1 completado">
       <created>1677175665004</created>
@@ -67,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677175774497</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Practica 2 en proceso">
+      <created>1677176394005</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677176394005</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Practica 1 completado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practica 1 completado" />
+    <MESSAGE value="Practica 2 en proceso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practica 2 en proceso" />
   </component>
 </project>
