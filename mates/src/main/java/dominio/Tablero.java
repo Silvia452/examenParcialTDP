@@ -29,6 +29,19 @@ public class Tablero {
                 System.out.println();
             }
         }
+
+        for (int i=0; i<DIMENSION; i++) {
+            for (int j=0; j<DIMENSION; j++) {
+                estadoActual[i][j] = estadoSiguiente[i][j];
+            }
+        }
+
+
+        for (int i=0; i<DIMENSION; i++) {
+            for (int j=0; j<DIMENSION; j++) {
+                estadoSiguiente[i][j] = 0;
+            }
+        }
     }
 
 
