@@ -10,7 +10,7 @@ class Main {
         g.addEdge(3, 4);
         g.addEdge(1, 5);
         g.addEdge(5, 6);
-        g.addEdge(6, 3);
+        g.addEdge(6, 4);
 
         System.out.println("Graph:");
         System.out.println(g.onePath(1,6));
