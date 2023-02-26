@@ -1,16 +1,10 @@
-import dominio.Tablero;
+package dominio;
+
 import java.util.concurrent.TimeUnit;
-import java.lang.InterruptedException;
-import mates.Matematicas;
 
-
-public class Principal {
+public class Main {
 
     public static void main(String[] args) {
-        //EJERCICIO 1
-        System.out.println("El número PI es " + Matematicas.generarNumeroPi(Integer.parseInt(args[0])));
-
-        //EJERCICIO 2
         try {
             Tablero tablero = new Tablero();
             System.out.println("SIMULACIÓN CON TABLERO LEÍDO ");
@@ -32,7 +26,7 @@ public class Principal {
         } catch(InterruptedException e) {
             System.out.println(e);
         }
+
     }
+
 }
-
-

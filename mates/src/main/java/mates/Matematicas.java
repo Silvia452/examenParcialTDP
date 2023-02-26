@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Matematicas {
 
-    public static double generarNumeroPi(long pasos) {
+    public static double generarNumeroPi(double pasos) {
         Scanner sn = new Scanner(System.in);
         System.out.println("Inserte número de puntos a generar: ");
         int puntosTotales = sn.nextInt();
